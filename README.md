@@ -75,6 +75,6 @@ Los dispositivos de interfaz humana han evolucionado drásticamente. Mientras qu
 Este proyecto está bajo la Licencia **Creative Commons Reconocimiento-NoComercial (CC BY-NC)**.
 
 ### ✍️ Autores
-* **Manuel Morales Ca** - *Investigación y Redacción*
+* **Manuel Morales Carrillo** - *Investigación y Redacción*
 * **Grupo:** 1 ASIR
 * **Fecha:** Enero 2026
