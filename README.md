@@ -14,8 +14,7 @@ Dispositivo apuntador utilizado para facilitar el manejo de un entorno gráfico 
 ### El Joystick (Palanca de mando)
 Dispositivo de control que consiste en una palanca que gira sobre una base e informa su ángulo o dirección al dispositivo que está controlando. Es fundamental en la simulación de vuelo y control de maquinaria.
 
-![comparativa](/imagenes/)
-*(Nota: Sustituye la ruta anterior por la ubicación de tu imagen en el repositorio)*
+![comparativa.png](/imagenes/)
 
 ---
 
